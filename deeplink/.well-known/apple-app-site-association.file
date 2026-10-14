@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "X8YE27GARE.com.f1soft.bankxp.qa",
+          "JM5F45TX3U.com.f1soft.bankxp.qa"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches all paths"
+          }
+        ]
+      },
+      {
+        "appID": "X8YE27GARE.com.f1soft.bankxp.qa",
+        "paths": [ "*" ]
+      },
+      {
+        "appID": "JM5F45TX3U.com.f1soft.bankxp.qa",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
