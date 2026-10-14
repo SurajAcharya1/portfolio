@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.f1soft.bankxp.qa",
+      "sha256_cert_fingerprints": [
+        "ED:67:53:83:D9:5D:7B:14:F3:D8:4C:6B:D3:DB:16:42:EC:E0:16:BD:C7:7C:24:96:BF:DF:BD:F6:DF:40:97:D6",
+        "BC:CC:D9:68:0A:4F:9A:FE:16:44:19:15:26:FA:BC:BA:D4:AF:8B:A6:1F:A7:45:8F:09:11:4C:BA:2B:08:D6:28"
+      ]
+    }
+  }
+]
